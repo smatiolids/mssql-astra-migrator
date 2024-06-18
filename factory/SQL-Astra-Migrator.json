@@ -1,0 +1,9 @@
+{
+	"name": "SQL-Astra-Migrator",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9ddc38f1-8eb7-4410-b8a6-10e6146a53e0",
+		"tenantId": "24c25e4f-77c1-4c18-96ca-d24e053ca553"
+	}
+}
